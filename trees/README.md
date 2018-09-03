@@ -29,8 +29,8 @@ one that is both full and complete. Perfect trees have 2^k - 1 nodes (k = number
 
 ## BINARY TREE TRANSVERSAL
 
-
-###### IN-ORDER: Visit left branch -> then current node -> and finally the right branch
+###### IN-ORDER:
+Visit left branch -> then current node -> and finally the right branch
 
 ###### PRE-ORDER: 
 
